@@ -1,8 +1,12 @@
 {
   "files": {
     "main.css": "/harnessdaeng/static/css/main.01c48307.css",
-    "main.js": "/harnessdaeng/static/js/main.5e454fa7.js",
+    "main.js": "/harnessdaeng/static/js/main.2d86c881.js",
     "static/media/BannerVideo.webm": "/harnessdaeng/static/media/BannerVideo.ba26c8ad7465f5477c5d.webm",
+    "static/media/detail-A.png": "/harnessdaeng/static/media/detail-A.a2189500b36c1d5c6232.png",
+    "static/media/detail-B.png": "/harnessdaeng/static/media/detail-B.362c2b84213d3a8343a4.png",
+    "static/media/detail-D.png": "/harnessdaeng/static/media/detail-D.88e05ae48cd53ac07d00.png",
+    "static/media/detail-C.png": "/harnessdaeng/static/media/detail-C.be3fb3ad5d343d0abec8.png",
     "static/media/Banner02.png": "/harnessdaeng/static/media/Banner02.6e73c5f826676af9847e.png",
     "static/media/Htype1-3.png": "/harnessdaeng/static/media/Htype1-3.80b9e3bb0619812e26fb.png",
     "static/media/g-op-img.png": "/harnessdaeng/static/media/g-op-img.4548cca2c039cdba1b5a.png",
@@ -63,10 +67,10 @@
     "static/media/like.svg": "/harnessdaeng/static/media/like.3d46c44ea02796e7247929366847e6f7.svg",
     "index.html": "/harnessdaeng/index.html",
     "main.01c48307.css.map": "/harnessdaeng/static/css/main.01c48307.css.map",
-    "main.5e454fa7.js.map": "/harnessdaeng/static/js/main.5e454fa7.js.map"
+    "main.2d86c881.js.map": "/harnessdaeng/static/js/main.2d86c881.js.map"
   },
   "entrypoints": [
     "static/css/main.01c48307.css",
-    "static/js/main.5e454fa7.js"
+    "static/js/main.2d86c881.js"
   ]
 }
