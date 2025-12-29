@@ -24,7 +24,7 @@ const DetailImage = () => {
 
     return (
         <section className="detail-long-image">
-        <img src={require(`${detailSrc}`)} alt="상세페이지 이미지" />
+        <img src={require((`${detailSrc}`))} alt="상세페이지 이미지" />
         </section>
     );
     };
